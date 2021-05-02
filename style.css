@@ -76,7 +76,7 @@ section p {
     color: var(--Very-dark-cyan);
     white-space: nowrap;
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 600px) {
     section {
         flex-direction: column;
         padding: 0;
